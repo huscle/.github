@@ -1,3 +1,3 @@
-# Huscle Webpage and README
+# Huscle README
 
-This repository contains the code for the Huscle webpage
+This repository contains the code for the Huscle README
